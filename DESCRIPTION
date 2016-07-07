@@ -1,9 +1,9 @@
 Package: rpackage
-Title: What the Package Does (one line, title case)
+Title: JS/CLJS tests
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+Authors@R: person("Mike", "Pearson", email = "gmp26@cam.ac.uk", role = c("aut", "cre"))
+Description: Testing javascript/clojurescript interface.
 Depends: R (>= 3.3.1)
-License: What license is it under?
+License: MIT
 Encoding: UTF-8
 LazyData: true

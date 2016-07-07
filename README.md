@@ -1,1 +1,3 @@
-# rpackage
+# rpackage: JS/CLJS tests
+
+No idea what happens next yet...
