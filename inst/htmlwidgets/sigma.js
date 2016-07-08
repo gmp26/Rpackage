@@ -7,7 +7,7 @@ HTMLWidgets.widget({
   factory: function(el, width, height) {
 
     // create our sigma object and bind it to the element
-    var sig = new sigma(el.id);
+    var sig = new sigmatest(el.id);
 
     return {
       renderValue: function(x) {
