@@ -1,6 +1,6 @@
 HTMLWidgets.widget({
 
-  name: "sigma",
+  name: "sigmatest",
 
   type: "output",
 
