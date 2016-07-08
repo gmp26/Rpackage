@@ -1,7 +1,6 @@
-
 #' @import htmlwidgets
 #' @export
-sigma <- function(gexf, drawEdges = TRUE, drawNodes = TRUE,
+sigmatest <- function(gexf, drawEdges = TRUE, drawNodes = TRUE,
                   width = NULL, height = NULL) {
 
   # read the gexf file
